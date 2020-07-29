@@ -1,0 +1,5 @@
+create table alumno(nombre varchar(20),	apellido varchar(20));
+insert into alumno values ('luisa', 'machicado');
+insert into alumno values ('efrain', 'canaviri');
+insert into alumno values ('franklin', 'lopez');
+select * from alumno
